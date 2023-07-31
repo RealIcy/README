@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rain</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A frontend developer </h3>
 
-- 🔭 I’m currently working on **AAC**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **C++ / Python / HTML**
 
 - 💬 Ask me about **idk whatever you want and ill try to answer :)**
 
-- 📫 How to reach me **<̵/̴R̵a̴i̸n̵?̵#1134**
+- 📫 How to reach me **On discord: 0rainyy**
 
-- ⚡ Fun fact **I got no friends :(**
+- ⚡ Fun fact ** I love rE :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
