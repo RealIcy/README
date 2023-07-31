@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **On discord: 0rainyy**
 
-- ⚡ Fun fact ** I love rE :) **
+- ⚡ Fun fact **I love rE :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
